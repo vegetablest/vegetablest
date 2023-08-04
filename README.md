@@ -1,4 +1,4 @@
-### Hi there 👋
+![](assets/Bottom_up.svg) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vegetablest/vegetablest/output/github-contribution-grid-snake-dark.svg">
