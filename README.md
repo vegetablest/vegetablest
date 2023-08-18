@@ -1,11 +1,9 @@
 ![](assets/Bottom_up.svg) 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Vegetablest</h1></summary>
-  </ul>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vegetablest">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vegetablest/vegetablest/output/github-contribution-grid-snake-dark.svg">
