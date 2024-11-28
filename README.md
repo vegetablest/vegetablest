@@ -11,15 +11,39 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vegetablest/vegetablest/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.elastic.co/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<!--<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> </a>--> </p>
+<h2 align="center">Languages and Tools:</h2>
+<div style="display: flex; align-items: flex-start; align: center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.python.org" target="_blank"><img
+            src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.java.com" target="_blank"><img src="https://techstack-generator.vercel.app/java-icon.svg"
+            alt="icon" width="65" height="65" /></a>
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.docker.com/" target="_blank"><img
+            src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Nodejs" /></a>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <a href="https://kubernetes.io" target="_blank"><img
+            src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Nodejs" /></a>
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.mysql.com/" target="_blank"><img
+            src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></a>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <a href="https://git-scm.com/" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" /></a>
+        <br>Git
+      </td>
+    </tr>
+  </table>
+</div>
