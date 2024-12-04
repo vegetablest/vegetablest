@@ -26,6 +26,11 @@
         <br>Java
       </td>
       <td align="center" width="96">
+        <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+            alt="icon" width="65" height="65" /></a>
+        <br>Golang
+      </td>
+      <td align="center" width="96">
         <a href="https://www.docker.com/" target="_blank"><img
             src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Nodejs" /></a>
         <br>Docker
