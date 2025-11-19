@@ -31,6 +31,11 @@
         <br>Golang
       </td>
       <td align="center" width="96">
+        <a href="https://react.dev/" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg"
+            alt="icon" width="65" height="65" /></a>
+        <br>React
+      </td>
+      <td align="center" width="96">
         <a href="https://www.docker.com/" target="_blank"><img
             src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Nodejs" /></a>
         <br>Docker
